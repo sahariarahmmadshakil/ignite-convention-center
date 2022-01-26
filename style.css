@@ -1,0 +1,71 @@
+.common_font {
+    font-family: 'Adamina', serif;
+    font-family: 'Archivo Narrow', sans-serif;
+    font-family: 'Josefin Slab', serif;
+    font-family: 'Jost', sans-serif;
+    font-family: 'Krona One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.slider_text_bg {
+    background-color: rgba(90, 85, 89, 0.404);
+}
+
+.slider_text {
+    color: rgb(255, 255, 255);
+}
+
+.common_text {
+    color: #848199;
+}
+
+.btn_common {
+    padding: 5px 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: #fffefe;
+    color: #3F87F5;
+}
+
+.toast_content {
+    right: -125px;
+    top: -47px;
+    width: 75%;
+}
+
+
+/* Background coller different thirn nomber div style  */
+
+.weeding_plus {
+    position: relative;
+    background-color: #3F87F5;
+    color: #fffefe;
+    top: -50px;
+    border-radius: 20px;
+    margin-top: 0;
+    padding-top: 0;
+    box-shadow: 0px 56px 90px -35px #3f94f5;
+}
+
+.carousel-item {
+    height: 90vh;
+}
+
+.weeding_plus_btn {
+    position: absolute;
+    padding: 5px 20px;
+    border-radius: 20px;
+    border: none;
+    background-color: red;
+    color: #ffffff;
+    top: -17px;
+    left: 66%;
+}
+
+.apps_div {
+    margin-left: 40%;
+    padding: 16px;
+    width: 250px;
+}
