@@ -53,6 +53,29 @@
     height: 90vh;
 }
 
+@media (max-width: 576px) {
+    .carousel-item {
+        height: 50vh;
+    }
+    .slider_text_bg {
+        height: 100%;
+        width: 80%;
+        padding-left: 7%;
+        font-size: 10px;
+        background: none;
+    }
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .carousel-item {
+        height: 30vh;
+    }
+    .slider_text_bg {
+        width: 80%;
+        font-size: 10px;
+    }
+}
+
 .weeding_plus_btn {
     position: absolute;
     padding: 5px 20px;
